@@ -11,3 +11,4 @@
 | ----- | ----- |
 |1010. 다리 놓기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0/%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0.java)|
 |1026. 보물|[링크](./%EB%B0%B1%EC%A4%80/Silver/1026.%E2%80%85%EB%B3%B4%EB%AC%BC/%EB%B3%B4%EB%AC%BC.java)|
+|1049. 기타줄|[링크](./%EB%B0%B1%EC%A4%80/Silver/1049.%E2%80%85%EA%B8%B0%ED%83%80%EC%A4%84/README.md)|
